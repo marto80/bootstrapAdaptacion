@@ -221,18 +221,16 @@ nav li:hover {
 
 /* Seccion Horarios */
 .table__container{
-	margin: auto;
+	margin: 3%;
 	padding: 5%;
-	width: 90%;
-	font-size: 1em;
-	margin-bottom: 5%;
+	width: 95%;
+	font-size: 0.8em;
+	min-width: 200px;
 }
 
 table{
 	background-color: #e8e8e8;
 	text-align: left;
-	border-collapse: collapse;
-	width: 100%;
 }
 
 th, td{
